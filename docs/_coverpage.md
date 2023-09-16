@@ -1,12 +1,10 @@
-![logo](_media/icon.svg)
+<!-- _coverpage.md -->
 
-# docsify <small>4.13.0</small>
+# illusion Wiki 
 
-> A magical documentation site generator.
+> 💪illusion Wiki, 在线解决80%产生的问题
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+
+
+[开始使用 Let Go](/README.md)
